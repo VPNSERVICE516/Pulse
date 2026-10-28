@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876166567248",
+    "project_id": "pulse-messenger-ca0e3",
+    "storage_bucket": "pulse-messenger-ca0e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876166567248:android:a4f6743e20a7230a290855",
+        "android_client_info": {
+          "package_name": "app.pulse.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBei9dRMMgQixOwIgp2b5jC-BFe414pFdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

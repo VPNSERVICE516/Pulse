@@ -1,0 +1,8 @@
+{
+  "appId": "app.pulse.messenger",
+  "appName": "Pulse",
+  "webDir": "www",
+  "plugins": {
+    "PushNotifications": { "presentationOptions": ["badge", "sound", "alert"] }
+  }
+}
